@@ -3,3 +3,5 @@ Course content from: "An Introduction to Interactive Programming in Python (Part
 
 Reference:
 https://www.coursera.org/learn/interactive-python-1
+
+Pick up from [here](https://www.coursera.org/learn/interactive-python-1/supplement/NlFfP/code-clinic-tips)
